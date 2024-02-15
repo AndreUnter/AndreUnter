@@ -1,7 +1,7 @@
 ## Olá! Eu sou o André Unter..
 
 - 📚 Estou em busca do meu primeiro emprego na área da tecnologia..
-- 👨‍💻 Estou estudando Java..
+- 👨‍💻 Estou estudando JavaScript..
 
 <div align="center">
   <a href="https://github.com/AndreUnter">
